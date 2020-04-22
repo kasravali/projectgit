@@ -1,5 +1,6 @@
 <?
 
-echo 'hello;' 
+echo 'hello;'
+echo 'how are you?' 
 
 
